@@ -1,8 +1,8 @@
 # oss-fuzz-test
 Testing for oss-fuzz framework
 
-git clone https://github.com/klausware/oss-fuzz-test
-git clone https://github.com/google/oss-fuzz
+git clone https://github.com/klausware/oss-fuzz-test \n
+git clone https://github.com/google/oss-fuzz \n
 
 cp -rf ./oss-fuzz-example/oss-fuzz-test oss-fuzz/projects/oss-fuzz-test
 cd oss-fuzz
