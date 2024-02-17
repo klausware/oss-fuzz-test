@@ -1,0 +1,6 @@
+homepage: "https://github.com/klausware/oss-fuzz-test"
+main_repo: 'https://github.com/klausware/oss-fuzz-test'
+primary_contact: "nick@koeppen.net"
+auto_ccs :
+  - "nick@koeppen.net"
+language: c
