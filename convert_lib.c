@@ -49,16 +49,3 @@ char *decimal_to_binary(int decimal) {
 
     return binary;
 }
-
-int main() {
-    // Example usage
-    char *binary = "1101";
-    int decimal = binary_to_decimal(binary);
-    printf("Binary %s is %d in decimal.\n", binary, decimal);
-
-    int decimalNumber = 13;
-    char *binaryStr = decimal_to_binary(decimalNumber);
-    printf("Decimal %d is %s in binary.\n", decimalNumber, binaryStr);
-
-    return 0;
-}
